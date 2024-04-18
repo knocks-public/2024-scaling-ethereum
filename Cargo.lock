@@ -1911,7 +1911,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "opti_smart"
+name = "opti-smart"
 version = "0.0.1"
 dependencies = [
  "alloy-primitives",

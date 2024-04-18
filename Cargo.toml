@@ -1,5 +1,5 @@
 [package]
-name = "opti_smart"
+name = "opti-smart"
 version = "0.0.1"
 edition = "2021"
 license = "Apache-2.0"
@@ -25,7 +25,7 @@ export-abi = ["stylus-sdk/export-abi"]
 debug = ["stylus-sdk/debug"]
 
 [[bin]]
-name = "stylus-hello-world"
+name = "opti-smart"
 path = "src/main.rs"
 
 [lib]
