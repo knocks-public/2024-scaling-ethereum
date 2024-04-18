@@ -1,12 +1,12 @@
 [package]
-name = "stylus-hello-world"
-version = "0.1.5"
+name = "optismart"
+version = "0.0.1"
 edition = "2021"
-license = "MIT OR Apache-2.0"
-homepage = "https://github.com/OffchainLabs/stylus-hello-world"
-repository = "https://github.com/OffchainLabs/stylus-hello-world"
+license = "Apache-2.0"
+homepage = "https://github.com/knocks-public/2024-scaling-ethereum"
+repository = "https://github.com/knocks-public/2024-scaling-ethereum"
 keywords = ["arbitrum", "ethereum", "stylus", "alloy"]
-description = "Stylus hello world example"
+description = "optismart is a Rust library for developing smart contracts on Arbitrum."
 
 [dependencies]
 alloy-primitives = "0.3.1"
