@@ -1,3 +1,7 @@
+.PHONY: check
+check:
+	cargo stylus check
+
 .PHONY: export
 export:
 	cargo stylus export-abi
