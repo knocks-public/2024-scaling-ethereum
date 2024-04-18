@@ -1,3 +1,7 @@
+.PHONY: export
+export:
+	cargo stylus export-abi
+
 .PHONY: deploy
 deploy:
 	cargo stylus deploy --private-key-path=key.pem
